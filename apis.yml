@@ -27,7 +27,7 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 x-status: defunct
 x-status-evidence: 'www.quirky.com returns HTTP 200 serving a domain-for-sale parking page (probed 2026-07-20); no api./developer./docs. subdomains resolve (NXDOMAIN)'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-20'
 tags:
